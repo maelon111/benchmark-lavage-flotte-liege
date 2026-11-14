@@ -1,0 +1,14 @@
+formule,vehicule,prix_ttc_eur
+Extérieur,Petite voiture,16
+Extérieur,Voiture standard,17
+Extérieur,SUV / 4x4,19
+Extérieur,Van,25
+Extérieur,Utilitaire,31
+Intérieur + extérieur,Petite voiture,25
+Intérieur + extérieur,Voiture standard,27
+Intérieur + extérieur,SUV / 4x4,30
+EcoWash+,À partir de,43
+EcoWash Max,À partir de,95
+Option brillance,Tous,10
+Option noir pneus,Tous,8
+Option rénovation des phares,Tous,31

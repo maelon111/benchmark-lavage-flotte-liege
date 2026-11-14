@@ -1,0 +1,9 @@
+parametre,valeur,unite,source,note
+eau_lavage_classique,150,litres par lavage,Moyenne retenue,Varie selon la station et le programme
+co2_lavage_station,0.9,kg CO2e par lavage,"Analyses de cycle de vie publiées en 2025 (revues Sustainability et Global Journal of Environmental Science and Management)",Valeur basse d'une fourchette de 0,9 à 4,5 kg
+co2_trajet_aller_retour_6km,1.3,kg CO2e,Base Empreinte de l'ADEME,Voiture thermique ; non compté pour une voiture électrique
+co2_lavage_sans_eau_sur_place,0.15,kg CO2e par lavage,Estimation ParkWash,Borne haute
+temps_trajet_attente,30,minutes par lavage en station,Ordre de grandeur,15 minutes de plus si l'intérieur est fait soi-même
+prix_car_wash_reference,12,euros TTC,Programme intermédiaire d'une grande enseigne de stations en Belgique,Souvent entre 9 et 15 €
+carburant_trajet,0.70,euros par aller-retour,Estimation,0,30 € en voiture électrique
+journee_de_travail,7.6,heures,Temps plein de référence en Belgique,

@@ -1,0 +1,8 @@
+vehicules_min,vehicules_max,remise
+5,9,-10 %
+10,19,-15 %
+20,49,-20 %
+50,199,-25 %
+200,999,-30 %
+1000,,-35 %
+abonnement hebdomadaire,,-10 % par lavage (la meilleure remise s'applique, sans cumul)
